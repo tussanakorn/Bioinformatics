@@ -1,5 +1,5 @@
 # 🧬 Basic of DNA Analysis [Bioinformatics] 🧬
-Basic of DNA Analysis [Bioinformatics] 
+
 [![dna.png](https://i.postimg.cc/5t5jGSnM/dna.png)](https://postimg.cc/kV4nR80j)
 
 ## What is Bioinformatics?
